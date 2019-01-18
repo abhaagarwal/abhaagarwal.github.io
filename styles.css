@@ -1,0 +1,46 @@
+h1 {
+  color: rgb(51, 44, 150); 
+  font-size: 90px;
+  text-shadow: 10px 10px 10px black; 
+}
+
+#first {
+    color:purple;
+}
+
+#second {
+    color:orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+    text-decoration: overline;
+    text-shadow: 1px 1px 1px grey;
+    text-align: center;
+    border-color:red;
+    border-style: double;
+    border-width: 3px;
+    border-radius: 5px;
+    box-shadow: 
+
+}
+
+#cutout {width:300px;
+
+}
+
+#window {width: 200px;
+}
+
+.brain {
+    color: palevioletred;
+}
+.heart {
+    color:blue;
+}
+
+body {
+    background-image:url(pattern.jpg);
+    background-attachment: scroll;
+    background-size: auto;
+
+}
