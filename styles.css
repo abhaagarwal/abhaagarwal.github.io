@@ -41,6 +41,7 @@ h1 {
 body {
     background-image:url(pattern.jpg);
     background-attachment: scroll;
-    background-size: auto;
+    background-size: 50%;
+    background-repeat: no-repeat;
 
 }
