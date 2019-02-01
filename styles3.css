@@ -1,5 +1,6 @@
 body{font-family: 'Bitter', serif}
-.navbar-light.navbar-brand{color:palevioletred}
+.navbar-light .navbar-brand{color:palevioletred}
+.navbar-light .navbar-nav .nav-link {color:palevioletred}
 .thead{background-color: navy;color:whitesmoke}
 .thead2{font-size:150%;color:whitesmoke;background-image:url(bandw.jpg);width:100%;height:200px}
 .thead3{font-size:150%;color:whitesmoke;background-image:url(bandw.jpg);width:100%;height:200px}

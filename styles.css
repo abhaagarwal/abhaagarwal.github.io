@@ -1,5 +1,6 @@
 body{font-family: 'Bitter', serif}
-.navbar-light.navbar-brand{color:palevioletred}
+.navbar-light .navbar-brand{color:palevioletred}
+.navbar-light .navbar-nav .nav-link {color:palevioletred}
 .jumbotron{background-image:url(jumbotron.png);height:300px}
 .welcome{color:white;background-color:black}
 .title{color:palevioletred; font-size: 140%}

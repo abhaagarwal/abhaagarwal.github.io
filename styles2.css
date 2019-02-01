@@ -1,4 +1,5 @@
 body{font-family: 'Bitter', serif}
-.navbar-light.navbar-brand{color:palevioletred}
+.navbar-light .navbar-brand{color:palevioletred}
+.navbar-light .navbar-nav .nav-link {color:palevioletred}
 img{width:100%}
 p{text-align: center}
